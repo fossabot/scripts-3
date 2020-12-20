@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FscottybearBear%2Fscripts.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FscottybearBear%2Fscripts?ref=badge_shield)
+
 Scripts
 =======
 
@@ -21,3 +23,7 @@ Organization
 * `shells` - No explanation necessary.
 * `webapp` - Toos for web application testing.
 * `wireless` - Wireless testing tools.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FscottybearBear%2Fscripts.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FscottybearBear%2Fscripts?ref=badge_large)
